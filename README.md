@@ -25,7 +25,8 @@ This project deploys a fine-tuned large language model as a cloud-based chat ass
 
 ```
 .
-├── README.md                        
+├── README.md
+├── Screenshots/                     
 ├── dataset/
 │   ├── infosec_dataset.jsonl       
 │   ├── infosec_train.jsonl         
